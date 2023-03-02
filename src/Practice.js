@@ -1,8 +1,9 @@
 let a = 10
 let b = "Hi"
-let c = [1, 2]
-let d = c
-c = c + 1
+let c = a
+// let c = [1, 2]
+// let d = c
+// c = c + 1
 
 d.push(3)
 
