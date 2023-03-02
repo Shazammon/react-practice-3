@@ -2,7 +2,8 @@ let a = 10
 let b = "Hi"
 // let c = a
 let c = [1, 2]
-let d = [3,4,5]
+// let d = [3,4,5]
+let d = [1, 2]
 // c = c + 1
 
 d.push(6)
