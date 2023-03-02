@@ -13,13 +13,13 @@
 
 // console.log(`a = ${a}`)
 // console.log(`b = ${b}`)
-// console.log(`c = ${c}`)
 // console.log(`d = ${d}`)
 console.log(`c === d ${c === d}`)
 console.log(`c == d ${c == d}`)
 
 
 let c = [1, 2]
+console.log(`c = ${c}`)
 
 
 function add(array, element) {
