@@ -3,11 +3,11 @@ let b = "Hi"
 let c = a
 // let c = [1, 2]
 // let d = c
-// c = c + 1
+c = c + 1
 
-d.push(3)
+// d.push(3)
 
-d = [3, 4, 5]
+// d = [3, 4, 5]
 
 console.log(`a = ${a}`)
 console.log(`b = ${b}`)
