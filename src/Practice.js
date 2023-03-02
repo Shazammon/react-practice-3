@@ -14,8 +14,8 @@
 // console.log(`a = ${a}`)
 // console.log(`b = ${b}`)
 // console.log(`d = ${d}`)
-console.log(`c === d ${c === d}`)
-console.log(`c == d ${c == d}`)
+// console.log(`c === d ${c === d}`)
+// console.log(`c == d ${c == d}`)
 
 
 let c = [1, 2]
