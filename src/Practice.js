@@ -16,3 +16,7 @@ d.push(6)
 // console.log(`d = ${d}`)
 console.log(`c === d ${c === d}`)
 console.log(`c == d ${c == d}`)
+
+function addEventListener(array, element) {
+    
+}
